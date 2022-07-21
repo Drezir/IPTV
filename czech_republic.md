@@ -19,3 +19,4 @@
 | 15   | Óčko Star Ⓢ    | [>](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8) | <img height="20" src="https://i.imgur.com/tGzQFWw.png"/> |
 | 16   | Óčko Expres Ⓢ    | [>](https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8) | <img height="20" src="https://i.imgur.com/e731JNS.png"/> |
 | 17   | Retro Music Television Ⓢ    | [>](https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/a6S2Yo4.png"/> |
+| 17   | ČT 1 HD    | [>](http://213.151.233.20:8000/dna-5100-tv-pc.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/%C4%8CT1_HD_logo_2012.svg/512px-%C4%8CT1_HD_logo_2012.svg.png"/> |
